@@ -37,10 +37,6 @@ I'm a passionate developer focused on creating security tools and web applicatio
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-
-## 📊 GitHub Stats
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jensbecker-dev&theme=react-dark&hide_border=true" />
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jensbecker-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jensbecker-dev&layout=compact&theme=radical" />
