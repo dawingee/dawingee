@@ -15,17 +15,17 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-    build:
-        runs-on: ubuntu-latest
-        steps:
-            - uses: actions/checkout@v3
-            
-            - name: Verify README exists
-              run: |
-                if [ -f "README.md" ]; then
-                  echo "✅ README.md found"
-                  exit 0
-                else
-                  echo "❌ README.md not found"
-                  exit 1
-                fi
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Verify README exists
+        run: |
+          if [ -f "README.md" ]; then
+            echo "✅ README.md found"
+            exit 0
+          else
+            echo "❌ README.md not found"
+            exit 1
+          fi
